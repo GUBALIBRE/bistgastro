@@ -20,7 +20,7 @@ bist(beast)gastro  /Food truck /recette /philosophie /client pauvre (prix bas) /
 
 
 
-&nbsp;	- Personnes aisées +30ans
+&nbsp;	- Personnes lambda
 
 &nbsp;	
 
@@ -32,25 +32,33 @@ bist(beast)gastro  /Food truck /recette /philosophie /client pauvre (prix bas) /
 
 &nbsp;		- Menu
 
-&nbsp;		- Localisation
+&nbsp;		- Localisation par mois
 
 &nbsp;		- Contact
 
-&nbsp;		- Disponibilité
+&nbsp;		- horaires
 
 
 
 Les Fonctionnalités attendues :
 
-&nbsp;		- Menu
+&nbsp;		- Menu (semaines)
+
+&nbsp;		- Recettes
 
 &nbsp;		- Réservation
 
 &nbsp;		- Contact \& Accès
 
-&nbsp;		- Localisation, réseau sociaux, avis, langues, galerie, newsletter, évènement
+&nbsp;		- Localisation
 
+&nbsp;		- Réseau sociaux
 
+&nbsp;		- Avis
+
+&nbsp;		- Langues
+
+&nbsp;		- Galerie
 
 
 
